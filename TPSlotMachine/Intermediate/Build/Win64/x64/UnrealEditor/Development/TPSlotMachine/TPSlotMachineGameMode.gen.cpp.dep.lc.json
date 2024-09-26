@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\intermediate\\build\\win64\\unrealeditor\\inc\\tpslotmachine\\uht\\tpslotmachinegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\intermediate\\build\\win64\\x64\\tpslotmachineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tpslotmachine\\definitions.tpslotmachine.h",
+            "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\source\\tpslotmachine\\tpslotmachinegamemode.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\intermediate\\build\\win64\\unrealeditor\\inc\\tpslotmachine\\uht\\tpslotmachinegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

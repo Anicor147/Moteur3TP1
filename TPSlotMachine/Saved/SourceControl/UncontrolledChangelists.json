@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Reel.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/slot.uasset"
+			]
+		}
+	]
+}

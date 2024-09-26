@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealGame\\Moteur3TP1\\TPSlotMachine\\Source\\TPSlotMachine\\TPSlotMachine.Build.cs",
+		"E:\\UnrealGame\\Moteur3TP1\\TPSlotMachine\\Source\\TPSlotMachine.Target.cs",
+		"E:\\UnrealGame\\Moteur3TP1\\TPSlotMachine\\Source\\TPSlotMachineEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TPSlotMachine",
+			"Path": "..\\Source\\TPSlotMachine.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TPSlotMachineEditor",
+			"Path": "..\\Source\\TPSlotMachineEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

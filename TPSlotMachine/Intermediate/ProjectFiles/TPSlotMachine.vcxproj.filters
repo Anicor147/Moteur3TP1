@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TPSlotMachine.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPSlotMachine.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TPSlotMachineEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TPSlotMachine">
+      <UniqueIdentifier>{5D12AFEC-2416-3D4E-90C6-BBF7B9DE5DFF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPSlotMachine\TPSlotMachine.Build.cs">
+      <Filter>Source\TPSlotMachine</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TPSlotMachine\TPSlotMachine.cpp">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPSlotMachine\TPSlotMachine.h">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPSlotMachine\TPSlotMachineCharacter.cpp">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPSlotMachine\TPSlotMachineCharacter.h">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPSlotMachine\TPSlotMachineGameMode.cpp">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPSlotMachine\TPSlotMachineGameMode.h">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPSlotMachine\TPSlotMachinePlayerController.cpp">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPSlotMachine\TPSlotMachinePlayerController.h">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPSlotMachine\TPSlotMachineProjectile.cpp">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPSlotMachine\TPSlotMachineProjectile.h">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPSlotMachine\TP_PickUpComponent.cpp">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPSlotMachine\TP_PickUpComponent.h">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPSlotMachine\TP_WeaponComponent.cpp">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPSlotMachine\TP_WeaponComponent.h">
+      <Filter>Source\TPSlotMachine</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

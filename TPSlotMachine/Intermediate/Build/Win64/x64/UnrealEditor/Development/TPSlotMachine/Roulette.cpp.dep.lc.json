@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\source\\tpslotmachine\\private\\roulette.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\intermediate\\build\\win64\\x64\\tpslotmachineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tpslotmachine\\definitions.tpslotmachine.h",
+            "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\source\\tpslotmachine\\private\\roulette.h",
+            "e:\\unrealgame\\moteur3tp1\\tpslotmachine\\intermediate\\build\\win64\\unrealeditor\\inc\\tpslotmachine\\uht\\roulette.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
