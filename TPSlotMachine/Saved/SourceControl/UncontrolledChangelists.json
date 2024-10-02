@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Reel.uasset",
-				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/slot.uasset"
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/slot.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/Blueprints/BP_Slot.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NZ/I679MNSKYZSGSZQN11BADW.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/Blueprints/BP_Roulette.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/HE/KAMORIK0FI3URU3U9NETWX.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/Win.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Black.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Yellow.uasset"
 			]
 		}
 	]
