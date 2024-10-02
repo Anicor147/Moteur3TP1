@@ -13,7 +13,10 @@
 				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/HE/KAMORIK0FI3URU3U9NETWX.uasset",
 				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/Win.uasset",
 				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Black.uasset",
-				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Yellow.uasset"
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Yellow.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Glow.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Glow_Inst.uasset",
+				"E:/UnrealGame/Moteur3TP1/TPSlotMachine/Content/texture/MAT_Yellow_Inst.uasset"
 			]
 		}
 	]

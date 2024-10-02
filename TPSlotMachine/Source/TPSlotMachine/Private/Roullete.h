@@ -50,6 +50,12 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	UNiagaraComponent* WinEffect;
 
+	UPROPERTY(EditAnywhere)
+	UMaterialInstance* GlowMaterial;
+	
+	UPROPERTY(EditAnywhere)
+	UMaterialInstance* DefaultMaterial;
+
 	virtual void NotifyHit(class UPrimitiveComponent* MyComp, AActor* Other, class UPrimitiveComponent* OtherComp,
 	                       bool bSelfMoved, FVector HitLocation, FVector HitNormal, FVector NormalImpulse,
 	                       const FHitResult& Hit) override;

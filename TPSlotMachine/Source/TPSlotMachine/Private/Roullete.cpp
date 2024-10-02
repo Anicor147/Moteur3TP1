@@ -77,12 +77,14 @@ void ARoullete::NotifyHit(class UPrimitiveComponent* MyComp, AActor* Other, clas
 		{
 			UE_LOG(LogTemp, Warning, TEXT(" All reels match: %.2f"), reel1, reel2, reel3);
 			WinEffect->Activate(true);
+			Line -> SetMaterial(0, GlowMaterial);			
 		}
 	}
 }
 
 float ARoullete::SpinRoullette(UStaticMeshComponent* reel)
 {
+	Line -> SetMaterial(0,DefaultMaterial);
 	auto result = FMath::RandRange(0, 15);
 	reel->SetRelativeRotation(FRotator(result * 22.5, 90, 90));
 
